@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del Modulo II
+Este proyecto es una muestra de prueba de como crear un repositorio dewsde github a mi computadora
